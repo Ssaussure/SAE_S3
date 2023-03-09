@@ -1,5 +1,4 @@
 # Gestion_Biens_Immobilier
-Projet en cours de réalisation
 
 
 Sujet :
