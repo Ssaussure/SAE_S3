@@ -22,7 +22,7 @@ Indications générales de mise en œuvre Une partie des documents techniques ou
 
 _____________________________________________________________________________________________________________________________________________________________________
 
-Notre projet est réalisé en groupe de 5 avec Anass HMADOUCH, Line CABARET, Nathan BOUDOT, Fabien ALLARD et moi même, Eliott BENAIM. Nous réalisons une application de gestion de biens immobilier pour notre client. 
+Notre projet est réalisé en groupe de 5 avec Anass HMADOUCH, Line CABARET, Nathan BOUDOT, Fabien ALLARD et Eliott BENAIM. Nous réalisons une application de gestion de biens immobilier pour notre client. 
 Le projet est codé en java, et utilisera prochainement une base de donnée sous SQL Developper. La liaison entre la B.D.D se fera avec JDBC (Java Database Connectivity) et des créations de fonctions, procédures et Triggers en PL/SQL. 
 
 Notre MCD (Modele conceptuel de données) est réalisé sous le logiciel Looping.
